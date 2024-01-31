@@ -1,0 +1,6 @@
+data/
+env/
+models/
+results_directory/
+.idea/
+__pycache__/

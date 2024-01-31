@@ -1,5 +1,5 @@
 DATA:
-  ROOT: 'data_root'
+  ROOT: '/Volumes/MIT/dynnet/data'
   TRAIN_SUBSET: 'train'
   EVAL_SUBSET: 'val'
   TYPE: 'weekly'
